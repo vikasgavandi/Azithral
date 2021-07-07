@@ -24,6 +24,7 @@ body {
 	box-sizing: border-box;
 	border: rgb(68, 125, 250);
 	border-radius: 1rem;
+	padding-right: 2rem;
 }
 
 .flipbook-viewport .flipbook {
