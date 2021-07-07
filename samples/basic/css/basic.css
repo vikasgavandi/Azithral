@@ -21,6 +21,7 @@ body {
 	top: 50%;
 	left: 50%;
 	margin: auto;
+	box-sizing: border-box;
 }
 
 .flipbook-viewport .flipbook {
