@@ -1,2 +1,0 @@
-# Azithral
-Develop by Digilab
