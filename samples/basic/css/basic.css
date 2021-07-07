@@ -7,6 +7,7 @@ body {
 	padding: 0;
 	width: 720px;
 	height: 1280px;
+	box-sizing: border-box;
 }
 
 .flipbook-viewport {
